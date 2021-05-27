@@ -1,0 +1,4 @@
+com\digt\test\model\Config.class
+com\digt\test\service\BusinessRule.class
+com\digt\test\service\LoadUserProperties.class
+com\digt\test\main\FileLoader.class
